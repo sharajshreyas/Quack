@@ -1,0 +1,100 @@
+body {
+    color: #797979;
+    background: #F31646;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    animation: blur 0.5s ease-out;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}   
+
+H2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 80px;
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 0px;
+    color: antiquewhite;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 60px;
+    color: antiquewhite;
+    position: absolute;
+    margin-left: 260px;
+    margin-top: 22px;
+}
+.jcbutt{
+  background-color: #e6173b;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    text-decoration: none;
+    position: absolute;
+    left: 82px;
+    top: 75px ;
+    width: 125px;
+    margin-top:100px;
+
+
+
+}
+
+.jcbox{
+    width: 294px;
+    height: 350px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border-radius: 5px;
+    margin-top: 100px;
+    margin-left: 109px;
+    color: #FB003F;
+   
+}
+
+.headt{
+    margin-left: 10px;
+    margin-top: 5px;
+    color: antiquewhite;
+}
+
+.logout{
+background-color: #ff1a41;
+    position: absolute;
+    text-align:right;bottom: 0px;
+    color: antiquewhite;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    margin-left: 609px;
+}
+
+.upda_time{
+     width: 600px;
+     height: 355px;
+     margin-top: -5px;
+     margin-left: 500px;
+     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+     border-radius: 5px;
+
+}
+.time{
+    width: 589px;
+    height: 100px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border-radius: 10.5px;
+    margin-left: 5px;
+    padding-top: 5px;
+    margin-top: 10px;
+    background-color: antiquewhite;
+
+}
